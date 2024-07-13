@@ -45,7 +45,7 @@ I've solved over 170+ DSA problems across various platforms and am always ready 
 
 | LeetCode | Geeks for Geeks | Code Studio | Interview Bit | Codeforces |
 |----------|-----------------|-------------|---------------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LeetCode" alt="LeetCode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Geeks for Geeks" alt="Geeks for Geeks" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Code Studio" alt="Code Studio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Interview Bit" alt="Interview Bit" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Codeforces" alt="Codeforces" width="55" height="55"/> |
+| ![LeetCode](https://github.com/devicons/devicon/blob/master/icons/leetcode/leetcode-original.svg) | ![Geeks for Geeks](https://github.com/devicons/devicon/blob/master/icons/geeksforgeeks/geeksforgeeks-original.svg) | ![Code Studio](https://github.com/devicons/devicon/blob/master/icons/codestudio/codestudio-original.svg) | ![Interview Bit](https://github.com/devicons/devicon/blob/master/icons/interviewbit/interviewbit-original.svg) | ![Codeforces](https://github.com/devicons/devicon/blob/master/icons/codeforces/codeforces-original.svg) |
 
 
 ---
