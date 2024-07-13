@@ -35,7 +35,6 @@ I'm passionate about software development, web technologies, and constantly expl
 - **LinkedIn:** 
 - **GitHub:** https://github.com/satyajit1106
 
----
 
 ### 
 ---
