@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**satyajit1106/satyajit1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Satyajit Patra, an IT undergraduate student at Visvesvaraya Technological University (VTU). 
+I'm passionate about software development, web technologies, and constantly exploring new areas in the tech world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+| Python3 | C | JS |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+
+
+---
+
+### 📫 How to reach me
+
+- **Email:** satyajitpatra4002@gmail.com
+- **LinkedIn:** 
+- **GitHub:** https://github.com/satyajit1106
+
+---
+
+### 
+---
+Feel free to check out my repositories and connect with me. I'm always open to collaboration and learning opportunities!
+
+Thanks for visiting my profile! 😄
