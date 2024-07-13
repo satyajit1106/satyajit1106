@@ -41,15 +41,6 @@ I've solved over 170+ DSA problems across various platforms and am always ready 
 
 ---
 
-### Coding Platforms:
-
-| LeetCode | Geeks for Geeks | Code Studio | Interview Bit | Codeforces |
-|----------|-----------------|-------------|---------------|------------|
-| ![LeetCode](https://github.com/devicons/devicon/blob/master/icons/leetcode/leetcode-original.svg) | ![Geeks for Geeks](https://github.com/devicons/devicon/blob/master/icons/geeksforgeeks/geeksforgeeks-original.svg) | ![Code Studio](https://github.com/devicons/devicon/blob/master/icons/codestudio/codestudio-original.svg) | ![Interview Bit](https://github.com/devicons/devicon/blob/master/icons/interviewbit/interviewbit-original.svg) | ![Codeforces](https://github.com/devicons/devicon/blob/master/icons/codeforces/codeforces-original.svg) |
-
-
----
-
 ### 📫 How to reach me
 
 - **Email:** satyajitpatra4002@gmail.com
