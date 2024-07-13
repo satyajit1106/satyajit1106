@@ -1,6 +1,7 @@
-### Hey there 👋
+### Hey there👋
+## Let's understand what I do? 
 
-I'm Satyajit Patra, an IT undergraduate at Visvesvaraya Technological University (VTU), passionate about software development and web technologies. I love diving into new tech trends, solving complex problems, and building innovative solutions. My interests range from full-stack development to exploring the depths of artificial intelligence.
+Satyajit Patra, an IT undergrad at Visvesvaraya Technological University (VTU), passionate about software development and web technologies. I love diving into new tech trends, solving complex problems, and building innovative solutions. My interests range from full-stack development to exploring the depths of artificial intelligence and cloud technologies. 
 ---
 ### 🔭 Current Projects: 
 Enhancing my web development skills and working on Google Gemini integration and development using ReactJS, Tailwind CSS, Gemini-API, ReactRouter, Redux-Toolkit.
