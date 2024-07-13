@@ -1,7 +1,18 @@
-### Hi there 👋
+### Hey there 👋
 
-I'm Satyajit Patra, an IT undergraduate student at Visvesvaraya Technological University (VTU). 
-I'm passionate about software development, web technologies, and constantly exploring new areas in the tech world.
+I'm Satyajit Patra, an IT undergraduate at Visvesvaraya Technological University (VTU), passionate about software development and web technologies. I love diving into new tech trends, solving complex problems, and building innovative solutions. My interests range from full-stack development to exploring the depths of artificial intelligence.
+---
+### 🔭 Current Projects: 
+Enhancing my web development skills and working on Google Gemini integration and development using ReactJS, Tailwind CSS, Gemini-API, ReactRouter, Redux-Toolkit.
+
+### 🌱 Learning: 
+Advance React, modern framework like NEXT JS, API Integration, Database management system. 
+
+### 💬 Ask me about:
+HTML, CSS, JavaScript, MySQL, and problem-solving in DSA.
+
+### ⚡ Fun fact: 
+I've solved over 170+ DSA problems across various platforms and am always ready for a new challenge.
 
 ---
 
