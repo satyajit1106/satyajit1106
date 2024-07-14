@@ -41,6 +41,16 @@ I've solved over 170+ DSA problems across various platforms and am always ready 
 
 ---
 
+### Coding Platforms:
+
+| LeetCode | Naukri | GeeksforGeeks | Codeforces |
+|----------|------------|---------------|------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="55" height="55"/> | <img src="https://static.naukri.com/s/4/100/i/naukri_Logo.png" title="Naukri" alt="Naukri" width="120" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" title="GeeksforGeeks" alt="GeeksforGeeks" width="55" height="55"/> | <img src="https://sta.codeforces.com/s/22103/images/codeforces-logo-with-telegram.png" title="Codeforces" alt="Codeforces" width="100" height="55"/> |
+
+
+
+---
+
 ### 📫 How to reach me
 
 - **Email:** satyajitpatra4002@gmail.com
