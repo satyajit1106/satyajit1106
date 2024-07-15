@@ -54,7 +54,7 @@ I've solved over 170+ DSA problems across various platforms and am always ready 
 ### 📫 How to reach me
 
 - **Email:** satyajitpatra4002@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/satyajit-patra-b0801a242/
 - **GitHub:** https://github.com/satyajit1106
 
 
