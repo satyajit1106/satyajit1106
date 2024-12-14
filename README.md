@@ -13,7 +13,7 @@ Advance React, modern framework like NEXT JS, API Integration, Database manageme
 HTML, CSS, JavaScript, MySQL, and problem-solving in DSA.
 
 ### ⚡ Fun fact: 
-I've solved over 300+ DSA problems across various platforms and am always ready for a new challenge.
+I've solved over 450 DSA problems across various platforms and am always ready for a new challenge.
 
 ---
 
