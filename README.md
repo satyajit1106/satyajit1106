@@ -55,8 +55,6 @@ I've solved over 450 DSA problems across various platforms and am always ready f
 
 - **Email:** [Satyajit Patra](satyajitpatra4002@gmail.com)
 - **LinkedIn:** [Satyajit Patra](https://www.linkedin.com/in/satyajit-patra-b0801a242/)
-- **GitHub:** https://github.com/satyajit1106
-
 
 ### 
 ---
